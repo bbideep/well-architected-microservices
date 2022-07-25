@@ -36,4 +36,4 @@ Probably, this list can be used as a Custom Lens within the AWS Well-Architected
 
 ## Contributions
 
-Kindly submit an [issue](https://github.com/bbideep/well-architected-microservices/issues) or a [pull request](https://github.com/bbideep/well-architected-microservices/pulls) with your inputs, suggestions, or anything that I might not have thought about or covered so far.
+Kindly submit an [issue](https://github.com/bbideep/well-architected-microservices/issues) or a [pull request](https://github.com/bbideep/well-architected-microservices/pulls) or simply open a [discussion](https://github.com/bbideep/well-architected-microservices/discussions) with your inputs, suggestions, or anything that I might not have thought about or covered so far.
